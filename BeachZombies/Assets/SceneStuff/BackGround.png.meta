@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: 5fb451d7ac667504ea6628f56e58a579
+guid: 47418ce40e054c340870a0675a21a571
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -306376537911713616
-    second: soda2 (2)_0
+      213: 5760202260919997367
+    second: BackGround_0
   - first:
-      213: 1775950678867417547
-    second: soda2 (2)_1
+      213: 8382914639024291461
+    second: BackGround_1
   - first:
-      213: -6468125578186501726
-    second: soda2 (2)_2
+      213: 4093567990479046315
+    second: BackGround_2
   - first:
-      213: -8133768020372038448
-    second: soda2 (2)_3
+      213: 366070347520600492
+    second: BackGround_3
+  - first:
+      213: 6313311283594016152
+    second: BackGround_4
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -92,100 +95,110 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: soda2 (2)_0
+      name: BackGround_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 73
-        width: 76
-        height: 152
+        x: 0
+        y: 0
+        width: 500
+        height: 1999
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c3850d65bea06348abd989d91600168
-      internalID: -306376537911713616
+      spriteID: eeaa3e6b857824443afe2142137acf20
+      internalID: 5760202260919997367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: soda2 (2)_1
+      name: BackGround_1
       rect:
         serializedVersion: 2
-        x: 113
-        y: 73
-        width: 76
-        height: 152
+        x: 500
+        y: 0
+        width: 500
+        height: 1999
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c12dc99ab4ef8b841ac7e62f844405b0
-      internalID: 1775950678867417547
+      spriteID: 5ebab2276a9a4384ca0c454928308184
+      internalID: 8382914639024291461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: soda2 (2)_2
+      name: BackGround_2
       rect:
         serializedVersion: 2
-        x: 204
-        y: 73
-        width: 76
-        height: 152
+        x: 1000
+        y: 0
+        width: 500
+        height: 1999
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08e22d9091643d349914d9a5645a8895
-      internalID: -6468125578186501726
+      spriteID: 8dea3efa731ef15469dc0b517afdbaad
+      internalID: 4093567990479046315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: soda2 (2)_3
+      name: BackGround_3
       rect:
         serializedVersion: 2
-        x: 295
-        y: 73
-        width: 105
-        height: 154
+        x: 1500
+        y: 0
+        width: 500
+        height: 1999
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce45a3019a44cc54486ea7bd525c309c
-      internalID: -8133768020372038448
+      spriteID: 364d384d04956ab4cb7a54621f82f717
+      internalID: 366070347520600492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_4
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 0
+        width: 501
+        height: 1999
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2ca2b01c9747f46a425f7001805d95
+      internalID: 6313311283594016152
       vertices: []
       indices: 
       edges: []
@@ -193,7 +206,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: f740e5fc0ba2da14e88fb798c76b9fd3
+    spriteID: 42722c1649fdfec4a92d00176d610917
     internalID: 0
     vertices: []
     indices: 

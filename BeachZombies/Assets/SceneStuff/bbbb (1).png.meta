@@ -1,7 +1,19 @@
 fileFormatVersion: 2
 guid: de87d5a4063023f499ed0e2a4de9e983
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3905702252868895104
+    second: bbbb (1)_0
+  - first:
+      213: 3993365373229513470
+    second: bbbb (1)_1
+  - first:
+      213: -7984268338046576623
+    second: bbbb (1)_2
+  - first:
+      213: -1633265375602399492
+    second: bbbb (1)_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -93,11 +105,95 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: bbbb (1)_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 300
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e714d729093749d4cbebf5ff3e925c9a
+      internalID: 3905702252868895104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bbbb (1)_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 300
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe5dad1a6a08e249bd2341fc309e3fd
+      internalID: 3993365373229513470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bbbb (1)_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 76
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b6f00e92fc40142a2748fdbfbf18c8
+      internalID: -7984268338046576623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bbbb (1)_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 76
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439aaf859eef3e44ea5801b991f0ba47
+      internalID: -1633265375602399492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4142ed89f25b5fc44903593e56b195fa
     internalID: 0
     vertices: []
     indices: 
